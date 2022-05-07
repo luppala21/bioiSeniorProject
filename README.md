@@ -5,3 +5,4 @@ Better understanding and genetic characterization of the gut microbiome will all
 No installation required.
 
 ## Usage
+Slurm file may be run on the Holland Computing Center using a sbatch command.
